@@ -35,7 +35,7 @@ def main(limit):
         payload ={
             'form[textfield:OSwjNf51Vlq5]': list1[random.randint(0, 99)], #first name
             'form[textfield:WS8KFzUfJKZ6]': list1[random.randint(0, 99)], #last name
-            'form[email:mSTAlyznz1A1]': 'allencao98+{}@gmail.com'.format(getrandbits(50)), #email
+            'form[email:mSTAlyznz1A1]': 'example+{}@gmail.com'.format(getrandbits(50)), #email
 			'form[list:Z89n81xJhqQK][choices]': 'Kith Soho', #pickup store, Kith Soho or Kith Brooklyn
             'form[list:kXPnX9LjujQw][choices]': 'Men\'s 8', #Shoe size
             'form[textfield:p6P2thoLnUI4]': 'bdfmlk55', #Captcha
