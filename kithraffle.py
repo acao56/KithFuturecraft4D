@@ -32,5 +32,5 @@ def main(limit):
         else:
             print(time.strftime("%H:%M:%S") + " / Could not enter!")
 
-main (1000) # change to the amount u want, currently 100 times.
+main (1000) # change to the amount u want
 exit()
