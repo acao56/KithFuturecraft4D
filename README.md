@@ -1,2 +1,2 @@
-# KithFuturecraft4d
+# KithFuturecraft4D
 Script for Kith Futurecraft
